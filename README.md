@@ -12,9 +12,9 @@ All scripts were designed to be executed in a Linux terminal (Ubuntu/WSL). The f
 *   [Nanoplot](https://github.com/wdecoster/NanoPlot)(v1.46.1)
 *   [Porechop](https://github.com/rrwick/Porechop)(v0.2.4)
 *   [Nanofilt](https://github.com/wdecoster/nanofilt)(v2.8.0) 
-*   [Canu](https://github.com/marbl/canu) (vX.X) - De novo assembly
-*   [Racon](https://github.com/isovic/racon) (vX.X) - First polishing step
-*   [Medaka](https://github.com/nanoporetech/medaka) (vX.X) - Second polishing step
-*   [VAPiD](https://github.com/VAPiD/VAPiD) (vX.X) - Viral annotation
-*   [RAxML](https://github.com/stamatak/standard-RAxML) (vX.X) - Maximum likelihood phylogenetic analysis
+*   [Canu](https://github.com/marbl/canu) (v2.3) - De novo assembly
+*   [Racon](https://github.com/isovic/racon) (v1.5) - First polishing step
+*   [Medaka](https://github.com/nanoporetech/medaka) (v2.1.1) - Second polishing step
+*   [VAPiD](https://github.com/VAPiD/VAPiD) (v1.6.7) - Viral annotation
+*   [RAxML](https://github.com/stamatak/standard-RAxML) (v8.2.12) - Maximum likelihood phylogenetic analysis
 *   *Note: Tree visualization was performed locally using ITOL.*
