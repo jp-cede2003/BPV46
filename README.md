@@ -3,8 +3,8 @@ This repository contains the bioinformatics pipeline and custom shell scripts us
 # De novo Assembly and Phylogenetic Analysis of Bovine Papillomavirus (BPV)
 ## 📊 Data Availability
 The raw sequencing data (FASTQ) and the final assembled genome (FASTA) are too heavy to be hosted here and have been deposited in the NCBI repository:
-*   **Raw Reads (SRA):** []
-*   **Assembled Genome (GenBank):** []
+*   **Raw Reads (SRA):** [PRJNA1560914]
+*   **Assembled Genome (GenBank):** [QB046935]
 
 ## Prerequisites and Environment
 All scripts were designed to be executed in a Linux terminal (Ubuntu/WSL). The following tools must be installed and added to your system's PATH:
