@@ -18,3 +18,4 @@ medaka_consensus \
   -m $MEDAKA_MODEL
 
 echo "Polishing complete. Consensus genome at: $OUTPUT_DIR/consensus.fasta"
+#The consensus was completed with 143 bp derived from the partial L1 sequence.
