@@ -18,3 +18,24 @@ All scripts were designed to be executed in a Linux terminal (Ubuntu/WSL). The f
 *   [VAPiD](https://github.com/VAPiD/VAPiD) (v1.6.7) - Viral annotation
 *   [RAxML](https://github.com/stamatak/standard-RAxML) (v8.2.12) - Maximum likelihood phylogenetic analysis
 *   *Note: Tree visualization was performed locally using ITOL.*
+
+## Pipeline Usage
+**Step 1: Assembly**
+```bash
+bash scripts/01_assembly_canu.sh
+```
+**Step 2: Polishing**
+```bash
+bash scripts/02_polishing_racon.sh
+bash scripts/03_polishing_medaka.sh
+```
+**Step 3: Annotation**
+```bash
+bash scripts/04_annotation_vapid.sh
+```
+**Step 4: Phylogeny**
+```bash
+bash scripts/05_phylogeny_raxml.sh
+```
+
+
