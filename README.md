@@ -15,7 +15,7 @@ All scripts were designed to be executed in a Linux terminal (Ubuntu/WSL). The f
 *   [Canu](https://github.com/marbl/canu) (v2.3) - De novo assembly
 *   [Racon](https://github.com/isovic/racon) (v1.5) - First polishing step
 *   [Medaka](https://github.com/nanoporetech/medaka) (v2.1.1) - Second polishing step
-*   [VAPiD](https://github.com/VAPiD/VAPiD) (v1.6.7) - Viral annotation
+*   [VAPiD](https://github.com/rcs333/VAPiD) (v1.6.7) - Viral annotation
 *   [RAxML](https://github.com/stamatak/standard-RAxML) (v8.2.12) - Maximum likelihood phylogenetic analysis
 *   *Note: Tree visualization was performed locally using ITOL.*
 
